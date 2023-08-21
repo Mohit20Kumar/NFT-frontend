@@ -25,7 +25,6 @@
     "formidable": "^2.0.1",
     "formik": "^2.2.9",
     "next": "13.4.18",
-    "nft.storage": "^6.4.1",
     "postcss": "8.4.28",
     "react": "18.2.0",
     "react-blockies": "^1.4.1",
@@ -41,6 +40,7 @@
     "@types/react-blockies": "^1.4.1",
     "apollo": "2.33.4",
     "apollo-codegen-core": "0.40.3",
-    "apollo-language-server": "1.26.3"
+    "apollo-language-server": "1.26.3",
+    "nft.storage": "^7.1.1"
   }
 }
